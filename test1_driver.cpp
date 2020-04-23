@@ -2,5 +2,5 @@
 
 void print_title(Serial port)
 {
-  port.printf("Hello World!");    
+    port.printf("Hello World!");    
 }
