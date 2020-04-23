@@ -1,2 +1,2 @@
-# platform_drivers-mbed
-Mbed specific platform drivers
+# test1_drivers-mbed
+Mbed specific drivers
